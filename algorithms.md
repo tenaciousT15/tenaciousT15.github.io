@@ -6,27 +6,31 @@ layout: default
 
 # Algorithms & Data Structures - InvestmentTracker
 
-## Enhancements Implemented
+## Artifact Description
 
-In developing *InvestmentTracker*, I applied key algorithmic strategies and data structures to optimize performance, ensure data integrity, and support scalable features. Enhancements included:
+This artifact includes the algorithmic logic and data structure implementation for *InvestmentTracker*, created during my Computer Science Capstone in Fall 2025. It covers sorting, filtering, and data organization strategies used to manage investment entries within the app.
 
-- Designing a **custom sorting algorithm** to organize investment entries by date, value, or category
+## Justification for Inclusion
+
+I selected this artifact because it highlights my ability to apply algorithmic thinking and data structure design in a real-world mobile application. Key components that showcase my skills include:
+
+- A **custom sorting algorithm** to organize investment entries by date, value, or category
 - Implementing **search functionality** using efficient iteration and filtering logic
 - Structuring data with **Kotlin collections** (i.e., 'List', 'Map') to support dynamic updates and user-driven queries
 - Using **Room Database indexing** to accelerate data retrieval and reduce query latency
 
-These enhancements allowed the app to handle growing datasets while maintaining responsiveness and clarity for the user.
+These enhancements improved the app's responsiveness and scalability, demonstrating my ability to design backend logic that supports dynamic user interaction.
 
-## Skills Demonstrated
+## Reflection on the Enhancement Process
 
-This phase showcased my ability to:
+Working on this artifact deepened my understanding of how algorithmic decisions impact user experience. I learned to:
 
 - Apply **algorithmic thinking** to solve real-world data organization and retrieval problems
 - Select and implement **appropriate data structures** for performance and clarity
 - Optimize **query logic and iteration patterns** for mobile environments
 - Integrate **persistent storage** with structured access patterns using Room and Kotlin
 
-I also demonstrated the ability to balance algorithmic efficiency with user experience, ensuring that backend logic supports intuitive frontend behavior.
+A key challenge was ensuring that filtering logic remained efficient as the dataset grew. I refined my approach based on performance testing and feedback from instructors. I also demonstrated the ability to balance algorithmic efficiency with user experience, ensuring that backend logic supports intuitive frontend behavior.
 
 # Course Outcomes Met
 

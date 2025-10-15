@@ -32,7 +32,7 @@ Enhancing this artifact taught me how to balance database complexity with mobile
 - Enforce **data validation and constraints** at the database level to prevent corruption
 - Troubleshoot and optimize **query performance** using indexing and structured access
 
-One challenge I faced was ensuring that sorting and filtering logic remained efficient as the dataset grew. I also showcased strategic thinking in balancing database complexity with mobile performance and user experience.
+One challenge I faced was ensuring that the schema remained flexible for future enhancements while maintaining current functionality. I also showcased strategic thinking in balancing database complexity with mobile performance and user experience.
 
 ## Course Outcomes Met
 

@@ -14,10 +14,10 @@ This artifact includes the algorithmic logic and data structure implementation f
 
 I selected this artifact because it highlights my ability to apply algorithmic thinking and data structure design in a real-world mobile application. Key components that showcase my skills include:
 
-- A **custom sorting algorithm** to organize investment entries by date, value, or category
-- Implementing **search functionality** using efficient iteration and filtering logic
-- Structuring data with **Kotlin collections** (i.e., 'List', 'Map') to support dynamic updates and user-driven queries
-- Using **Room Database indexing** to accelerate data retrieval and reduce query latency
+- **Input validation logic** to ensure correct formats and prevent invalid entries
+- **State management** using ViewModel and Kotlin data classes
+- **Error handling routines** that guide user correction and feedback
+- **Data modeling** to represent investment records in a structured, scalable way
 
 These enhancements improved the app's responsiveness and scalability, demonstrating my ability to design backend logic that supports dynamic user interaction.
 
@@ -30,7 +30,7 @@ Working on this artifact deepened my understanding of how algorithmic decisions 
 - Optimize **query logic and iteration patterns** for mobile environments
 - Integrate **persistent storage** with structured access patterns using Room and Kotlin
 
-A key challenge was ensuring that filtering logic remained efficient as the dataset grew. I refined my approach based on performance testing and feedback from instructors. I also demonstrated the ability to balance algorithmic efficiency with user experience, ensuring that backend logic supports intuitive frontend behavior.
+A key challenge was ensuring that validation logic remained responsive and intuitive. I refined my approach based on performance testing and feedback from instructors. I also demonstrated the ability to balance algorithmic efficiency with user experience, ensuring that backend logic supports intuitive frontend behavior.
 
 # Course Outcomes Met
 

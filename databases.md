@@ -6,9 +6,13 @@ layout: default
 
 # Databases - InvestmentTracker
 
-# Enhancements Implemented
+## Artifact Description
 
-To support persistent, secure, and efficient data handling in *InvestmentTracker*, I integrated and optimized a local database using **Room**, Android's SQLite abstraction. Key enhancements included:
+This artifact is the database implementation for *InvestmentTracker*, an Android app developed during my Computer Science Capstone in Fall 2025. It includes the Room Database schema, DAO interfaces, and query logic used to store and retrieve investment data. The artifact was created as part of the app's backend architecture and refined throughout the capstone project.
+
+# Justification for Inclusion
+
+I selected this artifact because it demonstrates my ability to design and implement a secure, efficient, and scalable database solution for a mobile application. Key components that showcase my skills include:
 
 - Designing a **normalized schema** to store investment entries with clear relationships and minimal redundancy
 - Implementing **DAO interfaces** for clean, testable data access logic
@@ -18,9 +22,9 @@ To support persistent, secure, and efficient data handling in *InvestmentTracker
 
 These enhancements ensured that user data was stored securely, retrieved efficiently, and displayed accurately across sessions.
 
-## Skills Demonstrated 
+## Reflection on the Enhancement Process
 
-This phase demonstrated my ability to:
+Enhancing this artifact taught me how to balance database complexity with mobile performance. This phase demonstrated my ability to:
 
 - Design and implement a **relational database schema** tailored to app requirements
 - Use **Room annotations and DAO patterns** to abstract and streamline database operations
@@ -28,7 +32,7 @@ This phase demonstrated my ability to:
 - Enforce **data validation and constraints** at the database level to prevent corruption
 - Troubleshoot and optimize **query performance** using indexing and structured access
 
-I also showcased strategic thinking in balancing database complexity with mobile performance and user experience.
+One challenge I faced was ensuring that sorting and filtering logic remained efficient as the dataset grew. I also showcased strategic thinking in balancing database complexity with mobile performance and user experience.
 
 ## Course Outcomes Met
 
